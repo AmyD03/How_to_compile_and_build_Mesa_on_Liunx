@@ -1,9 +1,9 @@
 # How_to_compile_and_build_Mesa_on_Liunx
 <h2>1.Environment</h2>
-  Ubuntu20.04.6
-  Mesa20.0.8
-  Meson1.2.0
-  cmake3.23.0
+  Ubuntu20.04.6<br>
+  Mesa20.0.8<br>
+  Meson1.2.0<br>
+  cmake3.23.0<br>
 <h2>2.Steps</h2>
 <strong>Step 1. Install dependencies</strong><br>
 &nbsp;&nbsp;<code>sudo apt build-dep mesa</code><br>
