@@ -21,8 +21,8 @@
 &nbsp;&nbsp;<em>Important: Not all dependencies marked with 'NO' need to be installed! </em><br>
 &nbsp;&nbsp;You can refer to the passed log in Step 5<br>
 <strong>4.1 install libjasper1 libjsaper-dev</strong><br>
-&nbsp;&nbsp;<code>sudo apt-get-repository "deb http://security.ubuntu.com/ubuntu xenial-security main"</code>
-&nbsp;&nbsp;<code>sudo apt install libjasper1 libjasper-dev</code>
+&nbsp;&nbsp;<code>sudo apt-get-repository "deb http://security.ubuntu.com/ubuntu xenial-security main"</code><br>
+&nbsp;&nbsp;<code>sudo apt install libjasper1 libjasper-dev</code><br>
 <img width="900" alt="image" src="https://github.com/AmyD03/How_to_compile_and_build_Mesa_on_Liunx/assets/97526423/fadde55b-b2e1-4214-aa9c-fd2f760881a7"><br>
 <img width="900" alt="image" src="https://github.com/AmyD03/How_to_compile_and_build_Mesa_on_Liunx/assets/97526423/32509def-0a37-4eee-99c5-5ab13fbbf29d"><br>
 <br>
